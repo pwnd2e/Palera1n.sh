@@ -16,7 +16,7 @@ Read this throughly, feel free to ask questions, know the risks.
 
 Please, please, please, provide necessary info:
 
-- iOS version and device (eg. iPhone 7+ 15.1, iPhone 6s 16.2)
+- iOS version and device (eg. iPhone 7+ 15.1, iPhone 6s 16.4)
 - Computer's OS and version (eg. Ubuntu 22.04, macOS 12.0 and up)
 - The command you ran
 - Debug logs with `--debug`
@@ -25,7 +25,7 @@ Please, please, please, provide necessary info:
 
 # palera1n
 
-iOS 15.0-16.2 **work in progress, semi-tethered ** checkm8 "jailbreak" 
+iOS 15.0-16.4 **work in progress, semi-tethered ** checkm8 "jailbreak" 
 
 # What does this do?
 
@@ -50,14 +50,13 @@ Stop making issues about Linux not being able to connect, we are aware. This inc
     - Remember, this is mainly for developers.
 
 # How to use
-- 1. Clone this repo with ``
+- 1. Command to run is `./palera1n.sh --tweaks (Your iOS) --semi-tethered   `
     - \[A10+\] Before running, you **must** disable your passcode
     - i0S 16 users make sure before you jailbreak turn on dev mode.
     - i0S 16 users make sure you never had passcode enabled if did you need to reset in settings or restore.
-    - Put your device in DFU Mode before running.
-- 2. For fakerootfs run `./palera1n.sh --tweaks <ios version youre on atm> --semi-tethered` 
+- 2. For restore-rootfs run `./palera1n.sh --restorerootfs (Your iOS) --tweaks --semi-tethered` 
     - With semi-tether after first install and re-jailbreaking just hit activate tweaks then respring
-- 3. Let it ra1n
+
 
 
 
