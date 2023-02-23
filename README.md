@@ -41,7 +41,7 @@ Linux has some weird usbmuxd issues. We have tried our best to fix them, but the
 Stop making issues about Linux not being able to connect, we are aware. This includes being stuck on waiting for ramdisk to finish booting.
 
 # Prerequisites
-- 1. checkm8 vulnerable iOS device on iOS 15-16.2 (A8X-A11)
+- 1. checkm8 vulnerable iOS device on iOS 15-16.4 (A8X-A11)
     
 - 2. Linux or macOS computer
     - Python 3 is required
@@ -50,7 +50,7 @@ Stop making issues about Linux not being able to connect, we are aware. This inc
     - Remember, this is mainly for developers.
 
 # How to use
-- 1. Clone this repo with `git clone --recursive https://github.com/pwnd2e/palera1n && cd palera1n`
+- 1. Clone this repo with ``
     - \[A10+\] Before running, you **must** disable your passcode
     - i0S 16 users make sure before you jailbreak turn on dev mode.
     - i0S 16 users make sure you never had passcode enabled if did you need to reset in settings or restore.
@@ -68,7 +68,7 @@ Stop making issues about Linux not being able to connect, we are aware. This inc
 # Repos
 All repos work because it uses normal Procursus and not rootless.
 - [ios15](https://www.2escustomservices.com/iOS15) You can add this repo for tweaks that wont bork your idevice
-- [ios16](https://www.2escustomservices.com/iOS16) You can add this repo for tweaks that wont bork your idevice
+
 # Credits
 
 
