@@ -50,7 +50,7 @@ Stop making issues about Linux not being able to connect, we are aware. This inc
     - Remember, this is mainly for developers.
 
 # How to use
-- 1. Command to run is `./palera1n.sh --tweaks (Your iOS) --semi-tethered   `
+- 1. Command to run is `./palera1n.sh --tweaks (Your iOS) --semi-tethered`
     - \[A10+\] Before running, you **must** disable your passcode
     - i0S 16 users make sure before you jailbreak turn on dev mode.
     - i0S 16 users make sure you never had passcode enabled if did you need to reset in settings or restore.
