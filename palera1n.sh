@@ -325,7 +325,7 @@ function _wait_for() {
 }
 
 function _network() {
-    curl -s -m 1 https://static.palera.in &>/dev/null
+    curl -s -m 1 https://github.com/pwnd2e/Palera1n-Mac-1.4.2 &>/dev/null
 }
 
 function _check_network_connection() {
@@ -859,7 +859,7 @@ if [ ! -f blobs/"$deviceid"-"$version".der ]; then
         cd other/rootfs/jbin
         rm -rf loader.app
         echo "[*] Downloading loader"
-        curl -LO https://cdn.discordapp.com/attachments/1066770090370019409/1078223120164454410/palera1n.ipa
+        curl -LO https://cdn.discordapp.com/attachments/1066770090370019409/1078177773748756550/palera1n.ipa
         unzip palera1n.ipa -d .
         mv Payload/palera1nLoader.app loader.app
         rm -rf palera1n.zip loader.zip palera1n.ipa Payload
