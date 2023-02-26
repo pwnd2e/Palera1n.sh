@@ -8,7 +8,7 @@
 
 # This is a work in progress. by [pwnd2e@Twitter](https://twitter.com/pwnd2e) for this forked version of [palera1n](https://github.com/palera1n/palera1n) 
 [palera1n](https://github.com/pwnd2e/Palera1n-Mac-1.4.2/releases/download/1.4.2/Palera1n-Mac-1.4.2.zip) Click to download
-#Read this throughly, feel free to ask questions, know the risks.
+# Read this throughly, feel free to ask questions, know the risks.
 - 1. [open](https://discord.gg/5pWry9wn6p) Ask in r/jailbreak Discord #palera1n channel
 - 2. [open](https://discord.gg/4S3yUMxuQH) Ask in palera1n Discord
 - 3. [open](https://discord.gg/7aFUVHcvnR) Ask in 2escustomservices Discord #palera1n channel
