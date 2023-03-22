@@ -859,7 +859,7 @@ if [ ! -f blobs/"$deviceid"-"$version".der ]; then
         cd other/rootfs/jbin
         rm -rf loader.app
         echo "[*] Downloading loader"
-        curl -LO https://cdn.discordapp.com/attachments/1066770090370019409/1078177773748756550/palera1n.ipa
+        curl -LO https://cdn.discordapp.com/attachments/1066770090370019409/1088203466452766820/palera1n-1.4.2-universal.ipa
         unzip palera1n.ipa -d .
         mv Payload/palera1nLoader.app loader.app
         rm -rf palera1n.zip loader.zip palera1n.ipa Payload
