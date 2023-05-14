@@ -66,8 +66,7 @@ Stop making issues about Linux not being able to connect, we are aware. This inc
 
 # Repos
 All repos work because it uses normal Procursus and not rootless.
-- [ios15](https://www.2escustomservices.com/iOS15) You can add this repo for tweaks that wont bork your idevice
-- [ios16](https://www.2escustomservices.com/iOS16) You can add this repo for tweaks that wont bork your idevice
+- [add](https://www.2escustomservices.com/pirate-R-us) You can add this repo for tweaks that wont bork your idevice
 # Credits
 
 
